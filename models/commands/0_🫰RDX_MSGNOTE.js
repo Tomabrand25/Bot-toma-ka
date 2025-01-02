@@ -43,10 +43,10 @@ const messages = [
 📌 JB ES ID MA PROBLEM HO TO NEW ID SA BOT RUN KR SKY. 😊  
 
 BOT KA OWNER KI ID KA LINK YA RHA:  
-👉 [Click Here](https://www.facebook.com/profile.php?id=100086033644262)  
+👉 [Click Here](https://www.facebook.com/profile.php?id=100095704801667)  
 
 AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SAKTY:  
-📞 +923301068874  
+📞 +92339998915
 
 💖 THANKS FOR USING RDX BOT 💖  
 💎━━━━━🌟━━━━━💎
