@@ -236,13 +236,14 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
    mess = "{name}"
   
-  if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
+    if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
     var msg = { 
-      body: `✨🌿❣︎${name}❣︎🌿✨,    ━━━━━━✦🌹✦━━━━━━ \n\n『\n   ${rand} 』\n\n   ╔═════❀❦︎❀═════╗             ★꧁𝐎𝐖𝐍𝐄𝐑꧂★   𝙏𝙊𝙈𝘼 𝘽𝙍𝘼𝙉𝘿  ╚═════❀❦︎❀═════╝
-   }
+      body: `✨🌿❣︎${name}❣︎🌿✨,    ━━━━━━✦🌹✦━━━━━━ \n\n『\n   ${rand} 』\n\n  ╔═════❀❦︎❀═════╗           ★꧁𝐎𝐖𝐍𝐄𝐑꧂★ 𝙏𝙊𝙈𝘼 𝘽𝙍𝘼𝙉𝘿 ╚═════❀❦︎❀═════╝`
+    }
+
     return api.sendMessage(msg, threadID, messageID);
   };
 
 }
 
-module.exports.run = function({ api, event, client, __GLOBAL }) { }
+module.exports.run = function({ api, event, client, __GLOBAL }) { } 
