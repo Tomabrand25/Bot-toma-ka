@@ -45,7 +45,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if (event.body.indexOf("goibot") == 0) { // Trigger on 'goibot'
     var msg = {
       body: `꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂,                 
-  \n\n『꧁🍒\n   ${rand} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂🌹 `
+  \n\n『꧁🍒\n   ${rand} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐓𝐎𝐌𝐀-𝐁𝐑𝐀𝐍𝐃꧂🌹 `
     };
     return api.sendMessage(msg, threadID, messageID);
   }
