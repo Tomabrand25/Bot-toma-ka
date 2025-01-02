@@ -51,14 +51,14 @@ ${global.config.PREFIX}Sɧɑɣɽɪ..💜(Ƭɛxʈ)\n${global.config.PREFIX} (Ƥɧ
 🦋🌸Ƭɣƥɛ${global.config.PREFIX}Ɦɛɭƥ2 (Ɑɭɭ Ƈøɱɱɑɳɗʂ)...☃️💌
 
 ${global.config.PREFIX} ɪɳfø (ɑɗɱɪɳ Iɳføɽɱɑʈɪøɳ)👀✍️
-...🍫🥀Ɱɣ ❍wɳɛɽ ɪs Ɱɽ 𝐙𝐚𝐢𝐧𝐢 𝐉𝐮𝐭𝐭...🕊️☃️
+...🍫🥀Ɱɣ ❍wɳɛɽ ɪs Ɱɽ 𝐓𝐨𝐦𝐚 𝐁𝐫𝐚𝐧𝐝...🕊️☃️
 
 ${global.config.PREFIX}🌺🍃Ƈɑɭɭɑɗ føɽ Ɑɳɣ ɪʂʂuɛ 
 <<<<<------------------------------>>>>>
 A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B̸O̸T̸ D̸E̸V̸A̸L̸O̸P̸A̸R̸....💙🍫
 
-💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ℤ𝔸𝕀ℕ ℙℝ𝕀ℕℂ𝔼🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=100086033644262&mibextid=ZbWKwL\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @zainijutt7😇 
+💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝙏𝙊𝙈𝘼-𝘽𝙧𝙖𝙣𝙙꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝕊𝕀ℝ 𝕋𝕆𝕄𝔸🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=100095704801667=&mibextid=ZbWKwL\n
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @Tomabrand123😇 
 
 
 💎━━━━━🌟━━━━━💎
@@ -71,15 +71,15 @@ A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B�
 📌 JB ES ID MA PROBLEM HO TO NEW ID SA BOT RUN KR SKY. 😊  
 
 BOT KA OWNER KI ID KA LINK YA RHA:  
-👉 [Click Here](https://www.facebook.com/profile.php?id=100086033644262)  
+👉 [Click Here](https://www.facebook.com/profile.php?id=100095704801667
 
-AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SAKTY:  
-📞 +923301068874  
+AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE MUJA FRND ADD KR KAY CONTACT KR SAKTY:  
+
 
 💖 THANKS FOR USING RDX BOT 💖  
 💎━━━━━🌟━━━━━💎
 ⟦🕊️⟦──🎀🧸💖🧸🎀──❀💞⟧  
-🍒🌟✧ℤ𝒶𝒾𝓃🌸✧  
+🍒🌟✧🪼𝙏𝙊𝙈𝘼 𝘽𝙊𝙏🪽🌸✧  
 ⟧🕊️⟧──🎀🧸💖🧸🎀──❀💞⟧
 `, attachment: fs.createReadStream(__dirname + "/cache/botjoin.mp4")} ,threadID));
     }
@@ -102,7 +102,7 @@ AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SA
             }
             memLength.sort((a, b) => a - b);
             
-            (typeof threadData.customJoin == "undefined") ? msg = "Hello  {name},\n─────────────────\n You're The {soThanhVien}Member ─────────────────\nOf {threadName} Group\n─────────────────\nPlease Enjoy Your Stay\n─────────────────\nAnd Make Lots Of Friends =)\n──────-°°__𝗧𝗿𝘂𝘀𝘁 𝗺e 🔐 °__!!>☁️✨❤️ My Owner  ✦͙͙͙͙❥⃝∗⁎.ʚ ZAIN JUTT ɞ.⁎∗❥⃝**͙✦͙͙͙ ❤️ Love you 😘 ummmma ❤️😍" : msg = threadData.customJoin;
+            (typeof threadData.customJoin == "undefined") ? msg = "Hello  {name},\n─────────────────\n You're The {soThanhVien}Member ─────────────────\nOf {threadName} Group\n─────────────────\nPlease Enjoy Your Stay\n─────────────────\nAnd Make Lots Of Friends =)\n──────-°°__𝗧𝗿𝘂𝘀𝘁 𝗺e 🔐 °__!!>☁️✨❤️ My Owner  ✦͙͙͙͙❥⃝∗⁎.ʚ TOMA BRAND ɞ.⁎∗❥⃝**͙✦͙͙͙ ❤️ Love you 😘 ummmma ❤️😍" : msg = threadData.customJoin;
             msg = msg
             .replace(/\{name}/g, nameArray.join(', '))
             .replace(/\{type}/g, (memLength.length > 1) ?  'Friends' : 'Friend')
@@ -123,4 +123,4 @@ AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SA
             return api.sendMessage(formPush, threadID);
         } catch (e) { return console.log(e) };
     }
-              }
+}
